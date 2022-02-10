@@ -10,3 +10,14 @@ a{
 .ggg{
     padding-top: 0px;
 }
+.fff col{
+
+}
+@media(max-width:1000px){
+ .ggg{
+     border:3px white;
+ }
+}
+
+.heightooo{ font-size: 100px;
+}
